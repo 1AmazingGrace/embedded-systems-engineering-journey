@@ -67,3 +67,6 @@ The circuit was tested in Tinkercad.
 ## 9. Conclusion
 
 This project demonstrates basic input-to-output control using an Arduino microcontroller. It provides a foundation for building sensor-based monitoring and automation systems.
+## 10. Circuit Diagram
+
+![Pushbutton-Controlled LED Circuit](circuit.png)
